@@ -9,15 +9,13 @@
             margin: 0;
             padding: 0;
         }
-
         .box {
             width: 250px;
             height: 360px;
             border: 2px solid black;
             margin: 100px auto;
-            background: #d9edf7;
+            background:#b2b2b2;
         }
-
         .display {
             width: 200px;
             height: 80px;
@@ -25,23 +23,22 @@
             margin-left: 25px;
             font-size: 30px;
             color: #000;
+            margin-top: 15px;
         }
-
         input[type=button]:hover {
             background: #FF99FF;
         }
-
         input[type=button] {
             width: 25%;
             height: 35px;
             text-align: center;
             margin-left: 13px;
+
         }
     </style>
 </head>
 <body>
 <div class="box">
-    <p>计算器</p>
     <input type="text" class="display"><br>
 
     <div class="number">
@@ -86,7 +83,6 @@
             num2 = num2 + value;
             $("input[type='text']").val(num + char + num2);
         }
-
     })
     $(".char input").click(function () {
         //判断num2是否有值，如果有值的情况下点击运算符表示要做运算操作，输出结果和运算符号，
