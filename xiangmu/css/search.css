@@ -1,0 +1,65 @@
+.put{
+	width: 340px;
+	height: 24px;
+	border: none;
+	background: #323333;
+	border: 1px solid #726966;
+	color: white;
+	position: absolute;
+	top: 50%;
+	margin-top: -13px;
+	left: 50%;
+	margin-left: -170px;
+
+}
+.header{
+	position: relative;
+}
+.btn{
+	width: 24px;
+	height: 26px;
+	border: none;
+	outline: none;
+	background: url(../image/icon.png) no-repeat 0 -98px;
+	position: absolute;
+	left: 650px;
+	top: 11px;
+}
+.bg img{
+	width: 100%;
+}
+.warp{
+	position: relative;
+}
+.box{
+	position: absolute;
+	text-align: center;
+	left: 270px;
+	top: 50px;
+	width: 498px;
+	height: 324px;
+	border: 1px solid red;
+	display: none;
+}
+.titl{
+	margin: 0 20px 0 20px;
+	width: 458px;
+	height: 40px;
+	color: darkviolet;
+	font-size: 12px;
+}
+.news ul li{
+	width: 81px;
+	height: 40px;
+	float: left;
+	color: white;
+	border: 1px solid red;
+}
+.news span{
+	display: ;
+	width: 81px;
+	height: 30px;
+	float: left;
+	color: wheat;
+	border: 1px solid red;
+}

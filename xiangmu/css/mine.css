@@ -1,0 +1,135 @@
+.bg{
+	height: 180px;
+	position: relative;
+	margin-bottom: 24px;
+}
+.bg .bg1{
+	width: 100%;
+}
+.bg .bg2{
+	position: absolute;
+	left: 452px;
+	top: 82px;
+	width: 102px;
+	height: 98px;
+}
+.list{
+	height: 55px;
+	text-align: center;
+	border-bottom: 7px solid #dbdbdc;
+}
+.list p{
+	font-size: 12px;
+	color: #595959;
+	line-height: 26px;
+}
+.danpin{
+	margin-right: 9px;
+}
+.pinpai{
+	margin-right: 9px;
+}
+.alldan{
+	padding: 0 20px;
+	height: 60px;
+	border-bottom: 1px solid #efefef;
+	line-height: 60px;
+}
+.alldan span{
+	font-size: 14px;
+}
+
+.allimg{
+	display: inline-block;	
+	margin-left: 24px;
+	
+}
+.work{
+	margin-top: 15px;
+	height: 80px;
+	border-bottom: 1px solid #efefef;
+	padding: 0 35px;
+}
+.work ul li{
+	margin-right:14% ;
+	width: 45px;
+	height: 55px;
+	float: left;
+	font-size: 14px;
+	line-height: :;px;
+}
+
+.w1{
+	width: 36px;
+	height: 34px;
+	background: url(../image/icon.png) no-repeat 0 -648px;
+}
+.w1:hover{
+	transition: 0.5s;
+	width: 36px;
+	height: 34px;
+	background: url(../image/icon.png) no-repeat -50px -650px;
+}
+.w2{
+	width: 36px;
+	height: 34px;
+	background: url(../image/icon.png) no-repeat -98px -648px;
+}
+.w2:hover{
+	transition:0.5s;
+	width: 36px;
+	height: 34px;
+	background: url(../image/icon.png) no-repeat -151px -650px;
+}
+.w3{
+	width: 36px;
+	height: 34px;
+	background: url(../image/icon.png) no-repeat 0 -699px;
+}
+.w3:hover{
+	transition: 0.5s;
+	width: 36px;
+	height: 34px;
+	background: url(../image/icon.png) no-repeat -50px -700px;
+}
+.w4{
+	width: 36px;
+	height: 34px;
+	background: url(../image/icon.png) no-repeat -98px -699px;
+}
+.w4:hover{
+	transition: 0.5s;
+	width: 36px;
+	height: 34px;
+	background: url(../image/icon.png) no-repeat -150px -700px;
+}
+.w5{
+	width: 36px;
+	height: 34px;
+	background: url(../image/icon.png) no-repeat 0 -749px;
+}
+.w5:hover{
+	transition:0.5s;
+	width: 36px;
+	height: 34px;
+	background: url(../image/icon.png) no-repeat -50px -750px;
+}
+.w6{
+	width: 36px;
+	height: 34px;
+	background: url(../image/icon.png) no-repeat -99px -749px;
+}
+.w6:hover{
+	transition: 0.5s;
+	width: 36px;
+	height: 34px;
+	background: url(../image/icon.png) no-repeat -147px -750px;
+}
+.alldan:hover{
+  background: beige;
+}
+.allimg{
+	width: 8px;
+	height: 13px;
+	background: url(../image/icon.png) no-repeat -151px -451px;
+}

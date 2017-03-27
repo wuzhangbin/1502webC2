@@ -1,0 +1,10 @@
+.lun{width: 1015px;height: 350px;}
+.pinpai{width: 1015px;height: 345px;border-top: 1px solid #999999;margin-top: 20px;position: relative;padding-top: 10px;}
+.pinpai span{display: block;width: 100px;height: 20px;text-align: center;line-height: 20px;position:absolute;top: -10px;left: 45%;background: white;}
+.pai{width: 100%;height: 140px;margin: 10px 0;}
+.pai_one{float: left;margin-left: 10px;overflow: hidden;}
+.pai_one img:hover{transform: scale(1.4);transition: 1s;width: 100%;height: 100%;}
+.pai_one img{transition: 1s}
+.pai_type{width: 100%;height: 130px;}
+.pai_img{width: 16%;height: 60px;float: left;margin-left: 5px;}
+
